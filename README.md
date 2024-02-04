@@ -61,7 +61,7 @@ The present papers constitute a seminal contribution to indoor localization util
 
 - Bluetooth signal characterization: The investigation delves into the behavioral patterns of Bluetooth signals employing 12 distinct supervised learning algorithms. This characterization serves as a cornerstone for comprehending the intricacies of signal dynamics, laying the groundwork for fingerprinting-based localization mechanisms.
 - Optimization of transmit power configuration: The utilization of metaheuristic algorithms for optimizing the configuration of transmit powers is extensively discussed. This endeavor is paramount for enhancing the efficacy of indoor localization systems by mitigating the computational complexities associated with brute-force search methodologies.
-- Assessment of symmetrical and asymmetrical transmission power configurations: The paper thoroughly evaluates transmission power configurations aimed at mitigating the impacts of multipath fading. The analysis juxtaposes the performance of diverse classification models under varied configurations, elucidating the settings that yield optimal outcomes. These contributions epitomize significant strides towards the continual enhancement of indoor localization systems, bearing profound implications for their operational efficiency and reliability."
+- Assessment of symmetrical and asymmetrical transmission power configurations: The paper thoroughly evaluates transmission power configurations aimed at mitigating the impacts of multipath fading. The analysis juxtaposes the performance of diverse classification models under varied configurations, elucidating the settings that yield optimal outcomes. These contributions epitomize significant strides towards the continual enhancement of indoor localization systems, bearing profound implications for their operational efficiency and reliability.
 
 
 ## Getting Started
@@ -72,7 +72,7 @@ The project has the following folders
 
 ## License
 
-TINTOlib is available under the **[Apache License 2.0](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)**.
+This code is available under the **[Apache License 2.0](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)**.
 
 ## Authors
 - **[Manuel Castillo-Cara](https://github.com/manwestc)**
