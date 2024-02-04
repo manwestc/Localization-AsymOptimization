@@ -2,10 +2,6 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://pypi.python.org/pypi/)
-[![Documentation Status](https://readthedocs.org/projects/morph-kgc/badge/?version=latest)](https://tintolib.readthedocs.io/en/latest/)
-[![Open In Colab-CNN](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/10iKmFCC_od-P_tqWzA_UQE2ieUhCV-uy/view?usp=sharing)
-[![Open In Colab-CNN+MLP](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1dv8QYxPsh-HA7TFlmFfQHGE5oMb5VHk4/view?usp=sharing)
-[![Open In Colab-CNN+MLP-reg](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1uQRNgfgi3G2-T4j0VsCnSLLSqzWykPM-/view?usp=sharing)
 
 # Comparative Study of Supervised Learning and Metaheuristic Algorithms for the Development of Bluetooth-Based Indoor Localization Mechanisms
 
