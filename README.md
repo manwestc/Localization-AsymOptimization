@@ -1,9 +1,7 @@
-# Localization - Asymmetric Optimization
+# Symmetric and Asymmetic Development of Bluetooth-Based Indoor Localization Mechanisms
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11-blue)](https://pypi.python.org/pypi/)
-
-# Comparative Study of Supervised Learning and Metaheuristic Algorithms for the Development of Bluetooth-Based Indoor Localization Mechanisms
 
 
 ## Citing these works
