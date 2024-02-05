@@ -7,24 +7,7 @@
 
 ## Citing these works
 
-**Citing Asymmetric withouth optimization**: If you used assymetric code in your work, please cite the **[Sensors](https://www.mdpi.com/1424-8220/17/6/1318)**:
-
-```bib
-@Article{s17061318,
-    AUTHOR = {Castillo-Cara, Manuel and Lovón-Melgarejo, Jesús and Bravo-Rocca, Gusseppe and Orozco-Barbosa, Luis and García-Varea, Ismael},
-    TITLE = {An Empirical Study of the Transmission Power Setting for Bluetooth-Based Indoor Localization Mechanisms},
-    JOURNAL = {Sensors},
-    VOLUME = {17},
-    YEAR = {2017},
-    NUMBER = {6},
-    ARTICLE-NUMBER = {1318},
-    PubMedID = {28590413},
-    ISSN = {1424-8220}
-    DOI = {10.3390/s17061318}
-}
-```
-
-And Assymetric with optimization code: **[IEEE Access](https://ieeexplore.ieee.org/abstract/document/8642816)** 
+**Citing Asymmetric with optimization**: If you used assymetric code in your work, please cite the **[IEEE Access](https://ieeexplore.ieee.org/abstract/document/8642816)** 
 
 ```bib
 @ARTICLE{8642816,
@@ -36,21 +19,6 @@ And Assymetric with optimization code: **[IEEE Access](https://ieeexplore.ieee.o
     number={},
     pages={26123-26135},
     doi={10.1109/ACCESS.2019.2899736}
-  }
-```
-
-And if you use the smartphone data: **[Jounal of Sensors](https://www.hindawi.com/journals/js/2017/1928578/)** 
-
-```bib
-@ARTICLE{1928578,
-    author={Castillo-Cara, Manuel and Lovón-Melgarejo, Jesús and Bravo-Rocca, Gusseppe and Orozco-Barbosa, Luis and García-Varea, Ismael},
-    journal={Journal of Sensors}, 
-    title={An analysis of multiple criteria and setups for Bluetooth smartphone-based indoor localization mechanism}, 
-    year={2017},
-    volume={2017},
-    number={1928578},
-    pages={22},
-    doi={10.1155/2017/1928578}
   }
 ```
 

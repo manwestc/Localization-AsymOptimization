@@ -1,23 +1,23 @@
 
-title: "Comparative Study of Supervised Learning and Metaheuristic Algorithms for the Development of Bluetooth-Based Indoor Localization Mechanisms"
+title: "An Empirical Study of the Transmission Power Setting for Bluetooth-Based Indoor Localization Mechanisms"
 license: Apache-2.0
 authors:
   - family-names: "Castillo-Cara"
     given-names: "Manuel"
-    affiliation: "Universidad Politécnica de Madrid"
+    affiliation: "Universidad Nacional de Ingeniería"
     orcid: "https://orcid.org/0000-0002-2990-7090"
 cff-version: 1.2.0
 preferred-citation:
   authors:
-    - family-names: "Lovón-Melgarejo"
-      given-names: "Jesús"
-      affiliation: "Universidad Nacional de Ingeniería"
     - family-names: "Castillo-Cara"
       given-names: "Manuel"
       affiliation: "Universidad Nacional de Ingeniería"
       orcid: "https://orcid.org/0000-0002-2990-7090"
-    - family-names: "Huarcaya-Canal"
-      given-names: "Óscar"
+    - family-names: "Lovón-Melgarejo"
+      given-names: "Jesús"
+      affiliation: "Universidad Nacional de Ingeniería"
+    - family-names: "Bravo-Rocca"
+      given-names: "Gusseppe"
       affiliation: "Universidad Nacional de Ingeniería"
     - family-names: "Orozco-Barbosa"
       given-names: "Luis"
@@ -26,11 +26,11 @@ preferred-citation:
     - family-names: "García Varea"
       given-names: "Ismael"
       affiliation: "Universidad de Castilla-La Mancha"
-  title: "Comparative Study of Supervised Learning and Metaheuristic Algorithms for the Development of Bluetooth-Based Indoor Localization Mechanisms"
+  title: "An Empirical Study of the Transmission Power Setting for Bluetooth-Based Indoor Localization Mechanisms"
   type: article
-  journal: "IEEE Access"
-  doi: 10.1109/ACCESS.2019.2899736
-  year: 2019
+  journal: "Sensors"
+  doi: 10.3390/s17061318
+  year: 2017
 identifiers:
   - description: "Symmetric and Asymmetic Development of Bluetooth-Based Indoor Localization Mechanisms"
     type: doi
